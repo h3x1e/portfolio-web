@@ -249,4 +249,10 @@ ul.show {
 
 .footer-icons {
     display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+svg {
+    margin-left: 20px;
 }
