@@ -51,6 +51,7 @@ ul {
 li {
     text-decoration: none;
     text-align: center;
+    padding-top: 30px;
 }
 
 h1 {
@@ -227,7 +228,7 @@ ul.show {
 
     .hero ul {
         display: none;
-        margin: 0ppx;
+        margin: none;
     }
 
     ul.show {
