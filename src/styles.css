@@ -148,6 +148,9 @@ a {
 
 .sub-section-contact {
     padding: 90px;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
 }
 
 .information-text {
@@ -236,5 +239,13 @@ ul.show {
     }
 }
 
+.input-style {
+    border: solid 2px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border-color: #395b64;
+}
+
 .footer-icons {
+    display: flex;
 }
