@@ -83,6 +83,7 @@ a {
 }
 
 .project-sub-text {
+    padding: 10px;
     font-size: 15px;
     color: #f5f2e7;
 }
@@ -184,13 +185,14 @@ ul.show {
     background-color: #395b64;
     color: #f5f2e7;
     width: 250px;
-    height: 300px;
+    height: 500px;
     box-shadow: 8px 8px 8px 8px hsla(180, 1%, 51%, 0.426);
 }
 
 .lang-image {
     margin-top: 10px;
-    height: 100px;
+    width: 100%;
+    padding-bottom: 20px;
 }
 
 .project-link {
